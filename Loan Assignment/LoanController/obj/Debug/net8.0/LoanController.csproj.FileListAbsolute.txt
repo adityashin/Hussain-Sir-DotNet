@@ -1,0 +1,5 @@
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\LoanController\obj\Debug\net8.0\LoanController.csproj.AssemblyReference.cache
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\LoanController\obj\Debug\net8.0\LoanController.GeneratedMSBuildEditorConfig.editorconfig
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\LoanController\obj\Debug\net8.0\LoanController.AssemblyInfoInputs.cache
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\LoanController\obj\Debug\net8.0\LoanController.AssemblyInfo.cs
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\LoanController\obj\Debug\net8.0\LoanController.csproj.CoreCompileInputs.cache

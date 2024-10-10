@@ -1,0 +1,14 @@
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\bin\Debug\net8.0\Loan.exe
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\bin\Debug\net8.0\Loan.deps.json
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\bin\Debug\net8.0\Loan.runtimeconfig.json
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\bin\Debug\net8.0\Loan.dll
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\bin\Debug\net8.0\Loan.pdb
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\obj\Debug\net8.0\Loan.GeneratedMSBuildEditorConfig.editorconfig
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\obj\Debug\net8.0\Loan.AssemblyInfoInputs.cache
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\obj\Debug\net8.0\Loan.AssemblyInfo.cs
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\obj\Debug\net8.0\Loan.csproj.CoreCompileInputs.cache
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\obj\Debug\net8.0\Loan.dll
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\obj\Debug\net8.0\refint\Loan.dll
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\obj\Debug\net8.0\Loan.pdb
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\obj\Debug\net8.0\Loan.genruntimeconfig.cache
+D:\web development course 2.0\DSA\Dotnet\Loan Assignment\Loan\obj\Debug\net8.0\ref\Loan.dll
