@@ -1,0 +1,4 @@
+D:\web development course 2.0\DSA\Dotnet\Basics\Properties_practice\obj\Debug\net8.0\Properties_practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\web development course 2.0\DSA\Dotnet\Basics\Properties_practice\obj\Debug\net8.0\Properties_practice.AssemblyInfoInputs.cache
+D:\web development course 2.0\DSA\Dotnet\Basics\Properties_practice\obj\Debug\net8.0\Properties_practice.AssemblyInfo.cs
+D:\web development course 2.0\DSA\Dotnet\Basics\Properties_practice\obj\Debug\net8.0\Properties_practice.csproj.CoreCompileInputs.cache
