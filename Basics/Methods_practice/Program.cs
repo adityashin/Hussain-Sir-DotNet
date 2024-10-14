@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 class Program
 {
@@ -28,14 +28,13 @@ class Program
      {
         int num=0;
         int length = arr.Length;
-        for(int i=0;i<=length;++i)
+        for(int i=0;i<length;++i)
         {
-            if(num <= arr[i])
+            if(num < arr[i])
                 num = arr[i];
         }
         Console.WriteLine($"Biggest number in array is {num}");
         return 0;
-
      }
 
      //factorial
@@ -57,11 +56,13 @@ class Program
 
         int sqno = int.Parse(args[2]);
         PrintSquare(sqno);
+        
+        factorial(4);
 
-        // int[] arrray = {1,2,3,4,5};
-        // ArraySum(arrray);
+        int[] arrray = {1,2,3,4,5};
+        
+        ArraySum(arrray);
 
-        factorial(14);
 
 
 
