@@ -1,0 +1,22 @@
+Entity : it's a living or non living object associated with a set of attributes.
+
+Step1 : identify the entities that are associated with the application we are developing
+
+Eg:
+School application:student,teachingStagg,NonTeachingStaff
+
+Step2: identify the attributes of each and every Entity
+
+student         Tstaff          NTStaff
+id                 id               id
+name            name               name
+address         address         address
+phone           phone           phone
+classs          Designation     Designation
+marks           salary          salary
+grade           qualification   dname
+fees            subject
+
+Step3: identify the common attributes of them in a hierarchial order
+
+
