@@ -1,0 +1,38 @@
+Inheritance
+It's a mechanism of consuming the member of one class in another class by establishing parent/child relationship between the classes which provides re-usability.
+
+In Inheritance child class can consume members of it's parent class as if it is the owner of those members(expect private members of parent).
+
+class a
+{
+    members
+}
+class b{
+    consuming the members of A from here
+}
+
+Exceuction always start from Parent class constructor.
+
+if you have not defined access modifier while writing constructor if will become private by default.
+
+Every class that is defined by us or pre-defined in the libraries of the language has a default partent class i.e Object class of System namespace, so the members of the Object class(Equals,GetHashCode,GetType,Tostring) are accessible from any where.
+
+
+**Types of Inheritance
+Number of parents classes a child class have or the number of child classes a parent class have.
+1.Single
+2.Multi-level
+3.Hierarchical
+4.Hybrid
+5.Multiple
+
+Dotnet does'nt support Hyprid and hierarchical Inheritance.
+
+In C# we don't have support for mulitple Inheritance thru classes, what we provided is only single Inheritance thru classes;
+
+In the first point we learnt when ever child class instance is created, child class constructor will implicitly call its parent classes constructor but only if the construcotr of parent class is parametrized, child class construcotr can't implicitly call it's parent's construcotr, so to overcome the problem it is hthe responsibility of the programmer to explicityly call parent class construcotr from child class construcotr and pass valus to those parameters.
+
+Interview Question
+1.What is the default parent class of the Inheritance?
+->The default parent class is Object class present inside System Namespace. Or (Object Class);
+
