@@ -1,0 +1,40 @@
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\Ado Dotnet.exe
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\Ado Dotnet.deps.json
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\Ado Dotnet.runtimeconfig.json
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\Ado Dotnet.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\Ado Dotnet.pdb
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\Ado Dotnet.csproj.AssemblyReference.cache
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\Ado Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\Ado Dotnet.AssemblyInfoInputs.cache
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\Ado Dotnet.AssemblyInfo.cs
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\Ado Dotnet.csproj.CoreCompileInputs.cache
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\Ado Dotnet.csproj.Up2Date
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\Ado Dotnet.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\refint\Ado Dotnet.dll
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\Ado Dotnet.pdb
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\Ado Dotnet.genruntimeconfig.cache
+D:\web development course 2.0\DSA\Dotnet\Ado Dotnet\obj\Debug\net8.0\ref\Ado Dotnet.dll
