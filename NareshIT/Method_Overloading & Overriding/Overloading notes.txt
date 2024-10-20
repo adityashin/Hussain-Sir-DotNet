@@ -1,0 +1,27 @@
+Unless and untill you can't achieve extra ordinary you will not get extra ordinary things.
+
+It's an approach of re-implementing a parent classes method under the child with same signature.
+
+Overloading:
+1.In this case we define multiple methods with same name by changing their parameters.
+2.This can be performed either within a class as well as between parent child classes also.
+3. While overloading a parent classes method under the child class, child class doesn't requires to take any permission from the parent class.
+4.Overloading is all about defining multiple behaviours to a method.
+
+Overriding:
+1.In this case we define multiple methods with the same name and same parameters.
+2.This can be perfromed only between parent child classes can never be performed with in the same class.
+3.while Overriding a parent's method under child class,child class requires a  permission from it's parent.
+4.Overriding is all about changing the behaviour of parents method under child class.  
+
+Note: If we want to override a parent's method under the child class, first that method should be declared by using the virtual modifier in parent class.
+
+eg:
+class1
+public virtual void Test()    //Overridable
+
+-Any virtual method of the parent class can be overriden by the child if required by using the override modifier.
+
+class2 : class1
+public override void Test()     //Overriding
+
