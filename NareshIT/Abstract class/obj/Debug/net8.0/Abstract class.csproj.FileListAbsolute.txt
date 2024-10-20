@@ -1,0 +1,14 @@
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\bin\Debug\net8.0\Abstract class.exe
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\bin\Debug\net8.0\Abstract class.deps.json
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\bin\Debug\net8.0\Abstract class.runtimeconfig.json
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\bin\Debug\net8.0\Abstract class.dll
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\bin\Debug\net8.0\Abstract class.pdb
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\obj\Debug\net8.0\Abstract class.GeneratedMSBuildEditorConfig.editorconfig
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\obj\Debug\net8.0\Abstract class.AssemblyInfoInputs.cache
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\obj\Debug\net8.0\Abstract class.AssemblyInfo.cs
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\obj\Debug\net8.0\Abstract class.csproj.CoreCompileInputs.cache
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\obj\Debug\net8.0\Abstract class.dll
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\obj\Debug\net8.0\refint\Abstract class.dll
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\obj\Debug\net8.0\Abstract class.pdb
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\obj\Debug\net8.0\Abstract class.genruntimeconfig.cache
+D:\web development course 2.0\DSA\Dotnet\NareshIT\Abstract class\obj\Debug\net8.0\ref\Abstract class.dll

@@ -1,0 +1,3 @@
+Abstract method : a method with out any method body is known as abstract method.
+
+Abstract Class : a class which contains any abstractmembers in it is known as abstract class.
