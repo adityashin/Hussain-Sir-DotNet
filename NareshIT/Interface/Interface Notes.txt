@@ -1,0 +1,16 @@
+Interface:
+class : it's a user-defined data type.
+Interface = this is also a user-defined data type.
+
+class : non-abstract methods(methods with method body)
+
+abstract class: non-abstract methods(methods with method body)
+and also abstract methods(methods without method body)
+    
+Interface : Contains only Abstract Methods(Methods without method body.)
+
+The default scope the members of an interface is public whereas it's private in case of a class.
+
+By default every member of an insterface is abstract so we don't require to use abstract modifier on it again just like we do in case of abstract class.
+
+we can't declare any fields/variables under an interface
