@@ -1,0 +1,14 @@
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\bin\Debug\net8.0\Interface[Bro code].exe
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\bin\Debug\net8.0\Interface[Bro code].deps.json
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\bin\Debug\net8.0\Interface[Bro code].runtimeconfig.json
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\bin\Debug\net8.0\Interface[Bro code].dll
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\bin\Debug\net8.0\Interface[Bro code].pdb
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\obj\Debug\net8.0\Interface[Bro code].GeneratedMSBuildEditorConfig.editorconfig
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\obj\Debug\net8.0\Interface[Bro code].AssemblyInfoInputs.cache
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\obj\Debug\net8.0\Interface[Bro code].AssemblyInfo.cs
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\obj\Debug\net8.0\Interface[Bro code].csproj.CoreCompileInputs.cache
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\obj\Debug\net8.0\Interface[Bro code].dll
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\obj\Debug\net8.0\refint\Interface[Bro code].dll
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\obj\Debug\net8.0\Interface[Bro code].pdb
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\obj\Debug\net8.0\Interface[Bro code].genruntimeconfig.cache
+D:\web development course 2.0\DSA\Dotnet\Interface(Bro code)\obj\Debug\net8.0\ref\Interface[Bro code].dll
