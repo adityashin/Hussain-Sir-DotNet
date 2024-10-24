@@ -1,0 +1,38 @@
+﻿using LOO.Problems;
+class Program
+{
+    public static void Main(string[] args)
+    {
+        List<Player> players = new List<Player>();
+        
+        Player players1 = new Player("chad");
+        Player players2 = new Player("adi");
+        Player players3 = new Player("tushar");
+        Player players4 = new Player("shailesh");
+
+        players.Add(players1);
+        players.Add(players2);
+        players.Add(players3);
+        players.Add(players4);
+        
+        foreach(Player player in players)
+        {
+            Console.WriteLine(player); 
+        }
+    }
+}
+
+class Player
+{
+    public string username = "";
+    public Player(string username)
+    {
+        this.username = username;
+    }
+    public override string ToString()
+    {
+        return username;
+    }
+    
+        
+    }

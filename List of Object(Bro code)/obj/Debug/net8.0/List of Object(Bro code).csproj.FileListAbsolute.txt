@@ -1,0 +1,14 @@
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\bin\Debug\net8.0\List of Object(Bro code).exe
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\bin\Debug\net8.0\List of Object(Bro code).deps.json
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\bin\Debug\net8.0\List of Object(Bro code).runtimeconfig.json
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\bin\Debug\net8.0\List of Object(Bro code).dll
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\bin\Debug\net8.0\List of Object(Bro code).pdb
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\obj\Debug\net8.0\List of Object(Bro code).GeneratedMSBuildEditorConfig.editorconfig
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\obj\Debug\net8.0\List of Object(Bro code).AssemblyInfoInputs.cache
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\obj\Debug\net8.0\List of Object(Bro code).AssemblyInfo.cs
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\obj\Debug\net8.0\List of Object(Bro code).csproj.CoreCompileInputs.cache
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\obj\Debug\net8.0\List of Object(Bro code).dll
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\obj\Debug\net8.0\refint\List of Object(Bro code).dll
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\obj\Debug\net8.0\List of Object(Bro code).pdb
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\obj\Debug\net8.0\List of Object(Bro code).genruntimeconfig.cache
+D:\web development course 2.0\DSA\Dotnet\List of Object(Bro code)\obj\Debug\net8.0\ref\List of Object(Bro code).dll
