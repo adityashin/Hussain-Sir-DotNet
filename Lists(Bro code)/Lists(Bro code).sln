@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lists(Bro code)", "Lists(Bro code).csproj", "{E116FC3A-B24C-459E-BBAC-3D3390A69253}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E116FC3A-B24C-459E-BBAC-3D3390A69253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E116FC3A-B24C-459E-BBAC-3D3390A69253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E116FC3A-B24C-459E-BBAC-3D3390A69253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E116FC3A-B24C-459E-BBAC-3D3390A69253}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E070F051-4128-43D0-BF60-53F310666F7E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\bin\Debug\net8.0\Lists(Bro code).exe
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\bin\Debug\net8.0\Lists(Bro code).deps.json
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\bin\Debug\net8.0\Lists(Bro code).runtimeconfig.json
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\bin\Debug\net8.0\Lists(Bro code).dll
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\bin\Debug\net8.0\Lists(Bro code).pdb
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\obj\Debug\net8.0\Lists(Bro code).GeneratedMSBuildEditorConfig.editorconfig
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\obj\Debug\net8.0\Lists(Bro code).AssemblyInfoInputs.cache
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\obj\Debug\net8.0\Lists(Bro code).AssemblyInfo.cs
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\obj\Debug\net8.0\Lists(Bro code).csproj.CoreCompileInputs.cache
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\obj\Debug\net8.0\Lists(Bro code).dll
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\obj\Debug\net8.0\refint\Lists(Bro code).dll
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\obj\Debug\net8.0\Lists(Bro code).pdb
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\obj\Debug\net8.0\Lists(Bro code).genruntimeconfig.cache
+D:\web development course 2.0\DSA\Dotnet\Lists(Bro code)\obj\Debug\net8.0\ref\Lists(Bro code).dll
